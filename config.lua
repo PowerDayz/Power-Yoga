@@ -7,8 +7,6 @@ Config = {}
 -- ██╔═══╝░██║░░██║░░████╔═████║░██╔══╝░░██╔══██╗██║░░██║██╔══██║░░╚██╔╝░░██╔══╝░░
 -- ██║░░░░░╚█████╔╝░░╚██╔╝░╚██╔╝░███████╗██║░░██║██████╔╝██║░░██║░░░██║░░░███████╗
 -- ╚═╝░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚══════╝
--- Det er på ingen måde tilladt at sælge denne resource videre.
--- Hvis det bliver gjort vil det medles til fivem.
 
 -- Kordinater til yoga måtter :)
 Config.YogaPlads1 = vector3(-1496.83, 828.22, 180.62) -- Jeg ved ikke hvorfor meeeen man skal minus den sidste på kordinaterne med 1 ;)
