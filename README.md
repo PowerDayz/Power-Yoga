@@ -8,4 +8,4 @@ Ting du skal bruge:
 
 QB-target: https://github.com/qbcore-framework/qb-target
 
-eller burde du være gucci 👍
+ellers burde du være gucci 👍
